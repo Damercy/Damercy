@@ -1,4 +1,4 @@
-Whoa! Nice to meet you here 👋
+Hi! Nice to meet you here 👋
 ==============================
 <p>Let's break the :snowflake: Here's a joke for you :smile: </p>
 <p align="left">
