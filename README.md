@@ -1,5 +1,5 @@
-![cover](https://user-images.githubusercontent.com/24220261/99840059-d6448880-2b91-11eb-82d7-05e99423170b.png)  
-![Commits Badge](https://badges.pufler.dev/commits/monthly/Damercy) ![Visits Badge](https://badges.pufler.dev/visits/Damercy/Damercy)
+![cover](https://user-images.githubusercontent.com/24220261/99840059-d6448880-2b91-11eb-82d7-05e99423170b.png)
+<p align="center"><a href="https://twitter.com/Damercysiyzarc"><img src="https://img.shields.io/badge/Damercysiyzarc%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://www.linkedin.com/in/damercy/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://stackoverflow.com/users/9565249/damercy?tab=profile"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a><a href="https://www.hackerrank.com/adhikaridayamoy?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a></p>
 
 
 
