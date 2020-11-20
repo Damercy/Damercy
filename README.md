@@ -7,13 +7,15 @@ I first got to know about readme's when I was exploring the directory of a game 
 
 I'm currently exploring the different _domains of CS_ although it now seems like I will be continuing to do so for a while now :sweat_smile:
 
+
 ### Tools & Frameworks that I :heart:
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/><img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
+
 ### Why should I check you out :question:
 Well there's no reason to, truth be told! But I can try to make you laugh with some :sparkles: __awesome__ :sparkles: jokes. For starters, how about this one?
-<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" qColor=%23 /></p>  
+<p align="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%233367e1&borderColor=%233367e1&qColor=%23FFF&aColor=%23FFEB3B&textColor=%23FFF&codeColor=%23FFF" alt="Jokes Card"/></p>  
 <p>I occasionaly write about stuff in my <a href="https://damercy.github.io/compute/">blog</a> :black_nib: and listen to some good music :musical_note: :musical_note:</p>
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31vrcqey2cxexkcfb42z432qmuam&cover_image=true&theme=novatorem"/></p>
 <p align="center"><img width="130px" height="100px" src="https://user-images.githubusercontent.com/24220261/99849749-20356a80-2ba2-11eb-88f8-3981a579d57b.jpg" alt="me-avatar"/></p>
-<p align="center"><img src="https://badges.pufler.dev/commits/monthly/Damercy" alt="commit-badge"/></p>
+<p align="center"><img src="https://badges.pufler.dev/visits/Damercy/Begin_Race" alt="views-badge"/> <img src="https://badges.pufler.dev/commits/monthly/Damercy" alt="commit-badge"/> <img src="https://badges.pufler.dev/repos/Damercy" alt="repo-count-badge"/></p>
