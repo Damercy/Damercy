@@ -15,7 +15,12 @@ I'm currently exploring the different _domains of CS_ although it now seems like
 ### Why should I check you out :question:
 Well there's no reason to, truth be told! But I can try to make you laugh with some :sparkles: __awesome__ :sparkles: jokes. For starters, how about this one?
 <p align="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%233367e1&borderColor=%233367e1&qColor=%23FFF&aColor=%23FFEB3B&textColor=%23FFF&codeColor=%23FFF" alt="Jokes Card"/></p>  
-<p>I occasionaly write about stuff in my <a href="https://damercy.github.io/compute/">blog</a> :black_nib: and listen to some good music :musical_note: :musical_note:</p>
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31vrcqey2cxexkcfb42z432qmuam&cover_image=true&theme=novatorem"/></p>
+
+| :black_nib: | :musical_note: |
+|-|-|
+|<p>I occasionaly write about stuff in my <a href="https://damercy.github.io/compute/">blog</a> and listen to some good music like the one on the right!</p> | <p align="center"><img height="100px" src="https://spotify-github-profile.vercel.app/api/view?uid=31vrcqey2cxexkcfb42z432qmuam&cover_image=true&theme=novatorem"/></p>|
+ 
+
+
 <p align="center"><img width="130px" height="100px" src="https://user-images.githubusercontent.com/24220261/99849749-20356a80-2ba2-11eb-88f8-3981a579d57b.jpg" alt="me-avatar"/></p>
-<p align="center"><img src="https://badges.pufler.dev/visits/Damercy/Begin_Race" alt="views-badge"/> <img src="https://badges.pufler.dev/commits/monthly/Damercy" alt="commit-badge"/> <img src="https://badges.pufler.dev/repos/Damercy" alt="repo-count-badge"/></p>
+<p align="center"><img src="https://badges.pufler.dev/visits/Damercy/Damercy" alt="views-badge"/> <img src="https://badges.pufler.dev/commits/monthly/Damercy" alt="commit-badge"/> <img src="https://badges.pufler.dev/repos/Damercy" alt="repo-count-badge"/></p>
