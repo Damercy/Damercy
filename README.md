@@ -3,7 +3,7 @@
 
 
 
-I first got to know about readme's when I was exploring the directory of a game and back then it was a simple `.txt` file. Fast forward to 2020, we're here creating readme's for ourselves. Like __`READ-ME`__, get it?  
+I first got to know about readme's when I was exploring the directory of a game and back then it was a simple `.txt` file. Fast forward to 2021, we're here creating readme's for ourselves. Like __`READ-ME`__, get it?  
 
 ### Tools & Frameworks that I :heart:
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/android%20-%2320232a.svg?&style=for-the-badge&logo=android&logoColor=%3DDC84"/><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -17,7 +17,7 @@ Well there's no reason to, truth be told! But I can try to make you laugh with s
 
 | :black_nib: | :musical_note: |
 |-|-|
-|<p>I occasionaly write about stuff in my <a href="https://damercy.github.io/compute/">blog</a> and listen to some good music like the one on the right!</p> | <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31vrcqey2cxexkcfb42z432qmuam&cover_image=true&theme=novatorem"/></p>|
+|<p>I occasionaly write about stuff in my <a href="https://damercy.github.io/compute/">blog</a> and listen to some good music like the one on the right!</p> | <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=true&theme=novatorem"/></p>|
  
 
 
