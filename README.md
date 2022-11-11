@@ -22,4 +22,4 @@ Well there's no reason to, truth be told! But I can try to make you laugh with s
 
 
 <p align="center"><img width="130px" height="100px" src="https://user-images.githubusercontent.com/24220261/99849749-20356a80-2ba2-11eb-88f8-3981a579d57b.jpg" alt="me-avatar"/></p>
-<p align="center"><img src="https://badges.pufler.dev/visits/Damercy/Damercy" alt="views-badge"/> <img src="https://badges.pufler.dev/commits/monthly/Damercy" alt="commit-badge"/> <img src="https://badges.pufler.dev/repos/Damercy" alt="repo-count-badge"/></p>
+<p align="center"><img src="https://img.shields.io/github/commit-activity/m/Damercy/GlanceThrough?style=for-the-badge" alt="commit-badge"/></p>
