@@ -21,4 +21,4 @@ Well there's no reason to, truth be told! But I can try to make you laugh with s
  
 
 
-<p align="center"><img width="130px" height="100px" src="https://user-images.githubusercontent.com/24220261/99849749-20356a80-2ba2-11eb-88f8-3981a579d57b.jpg" alt="me-avatar"/></p>
+<p align="center"><img width="130px" height="100px" src="https://user-images.githubusercontent.com/24220261/207425300-1fe944ee-73c2-4d8c-b5e7-75193f9b5890.png" alt="me-avatar"/></p>
