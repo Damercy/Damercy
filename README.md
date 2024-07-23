@@ -17,7 +17,7 @@ Well there's no reason to, truth be told! But I can try to make you laugh with s
 
 | :black_nib: | :musical_note: |
 |-|-|
-|<p>I occasionaly write about stuff in my <a href="https://damercy.github.io/compute/">blog</a> and listen to some good music like the one on the right!</p> | <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=true&theme=novatorem"/></p>|
+|<p>I occasionaly write about stuff in my <a href="https://damercy.github.io/compute/">blog</a> and listen to some good music like the one on the right!</p> | <p align="center">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&redirect=true)</p>|
  
 
 
