@@ -1,18 +1,15 @@
-heya, i'm **daya**.
+hey, i'm **daya**.
 
-agentic-driven developer working on cutting-edge tech,
-including on-device LLMs like Gemma 4.
+- agentic-driven native mobile + full stack developer — delhi ↔ bengaluru
+- building [quoter](https://play.google.com/store/apps/details?id=com.dayaonweb.quoter) on the side
 
-i build native android apps and full-stack systems.
-
-find me on [x](https://twitter.com/Damercysiyzarc)
-or at [dayaonweb.dev](https://www.dayaonweb.dev)
-� [adhikaridayamoy@gmail.com](mailto:adhikaridayamoy@gmail.com)
+connect with me at:
+[x](https://twitter.com/Damercysiyzarc) / [dayaonweb.dev](https://www.dayaonweb.dev) / [email](mailto:adhikaridayamoy@gmail.com)
 
 <br>
 
-??  **now playing**
+🎵 now playing
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="360" alt="spotify now playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="480" alt="spotify now playing" />
 </a>
