@@ -13,5 +13,5 @@ connect with me at:
 🎵 now playing
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="100%" alt="spotify now playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="220" alt="spotify now playing" />
 </a>
