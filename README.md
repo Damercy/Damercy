@@ -1,16 +1,8 @@
 hey, i'm **daya**.
 
-- agentic-driven native mobile + full stack developer
+- native mobile + full-stack developer, building with AI agents
 - anywhere between **del ↔ blr**
-- building [quoter](https://play.google.com/store/apps/details?id=com.dayaonweb.quoter) on the side
+- check out **[Quoter](https://play.google.com/store/apps/details?id=com.dayaonweb.quoter)** — my minimalist Android quotes app · [source](https://github.com/Damercy/Quoter)
 
-connect with me at: 
-[X](https://twitter.com/Damercysiyzarc) · [dayaonweb.dev](https://www.dayaonweb.dev) · [email](mailto:adhikaridayamoy@gmail.com)
-
-<br>
-
-**listening to:**
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3163z7puqnx4oys352hmcsrjiyz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="220" alt="spotify now playing" />
-</a>
+connect with me:
+[X](https://x.com/damercysiyzarc) · [dayaonweb.dev](https://dayaonweb.dev) · [email](mailto:adhikaridayamoy@gmail.com) · [Spotify](https://open.spotify.com/user/3163z7puqnx4oys352hmcsrjiyz4)
